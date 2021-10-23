@@ -51,6 +51,7 @@ developing web applications in a test driven environment. Developed a social med
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="50" src="https://github.com/abdullakn/abdullakn/blob/main/react.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
+<code><img height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oD4EpJyk--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8edsp69dgun56wcte49s.png"></code>
  
 *Tools*
  
