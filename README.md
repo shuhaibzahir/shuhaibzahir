@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gmail Badge](https://img.shields.io/badge/-sameeh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yesshuhaib.ss@gmail.com)](mailto:yesshuhaib.ss@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Sameeh.M-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuhaibzahir/)](https://www.linkedin.com/in/shuhaibzahir/)
-[![Website Badge](https://img.shields.io/badge/-Sameeh.M-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://shuhaib.tech)](https://shuhaib.tech)
+[![Gmail Badge](https://img.shields.io/badge/-Shuhaib.S-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yesshuhaib.ss@gmail.com)](mailto:yesshuhaib.ss@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Shuhaib.S-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuhaibzahir/)](https://www.linkedin.com/in/shuhaibzahir/)
+[![Website Badge](https://img.shields.io/badge/-Shuhaib.S-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://shuhaib.tech)](https://shuhaib.tech)
  
 
 Hi, i'm [Shuhaib S](https://shuhaib.tech/),Dedicated self-taught MERN stack developer with robust problem-solving skills and proven experience in 
