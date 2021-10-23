@@ -78,7 +78,7 @@ developing web applications in a test driven environment. Developed a social med
 
 <a href="https://github.com/shuhaibzahir/github-readme-activity-graph"><img alt="shuhaibzahir" src="https://activity-graph.herokuapp.com/graph?username=shuhaibzahir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
+<!-- 
 <a href="https://github.com/shuhaibzahir">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuhaibzahir&show_icons=true&theme=vue-dark" />
-</a>
+</a> -->
