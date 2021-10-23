@@ -61,8 +61,8 @@ developing web applications in a test driven environment. Developed a social med
 
 
 <p align="center">
-    <a href="https://github.com/Sameeh7383/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sameeh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameeh7383&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/shuhaib/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shuhaib" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameeh7383&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
