@@ -63,7 +63,7 @@ developing web applications in a test driven environment. Developed a social med
 
 <p align="center">
     <a href="https://github.com/shuhaib/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shuhaib" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameeh7383&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shuhaib" src="https://github-readme-streak-stats.herokuapp.com/?user=shuhaibzahir&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -78,7 +78,4 @@ developing web applications in a test driven environment. Developed a social med
 
 <a href="https://github.com/shuhaibzahir/github-readme-activity-graph"><img alt="shuhaibzahir" src="https://activity-graph.herokuapp.com/graph?username=shuhaibzahir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
-<a href="https://github.com/shuhaibzahir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuhaibzahir&show_icons=true&theme=vue-dark" />
-</a>
+ 
